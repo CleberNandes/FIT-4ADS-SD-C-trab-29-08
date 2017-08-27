@@ -1,0 +1,12 @@
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.exe.config
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.exe
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.pdb
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.exe
+c:\users\administrator\documents\ExeEntrega2908Lp4\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.pdb
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.exe.config
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.exe
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.pdb
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.exe
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\bin\Debug\ExeEntrega2908Lp4.pdb
+C:\Users\User\Google Drive\IMPACTA\4 Semestre\3 Des de App Distribuidas\ExeEntrega2908Lp4\obj\Debug\ExeEntrega2908Lp4.csprojResolveAssemblyReference.cache
